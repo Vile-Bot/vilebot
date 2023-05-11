@@ -4,7 +4,7 @@
 
 [Click here to join the support server](https://discord.gg/KsfkG3BZ4h)
 
-**Vile is a free & multi-purpose bot**
+**Vile is a free & feature-complete bot made for the best servers on Discord**
 
 ### Inviting Vile
 
