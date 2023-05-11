@@ -10,4 +10,4 @@
 
 Inviting Vile includes access to all services that Vile offers, and all services Vile may offer in the future.
 
-[Privacy Policy](./privacy policy.md)  •  [Terms of Service](./terms of service.md)
+[Privacy Policy](./privacy_policy.md)  •  [Terms of Service](./terms_of_service.md)
