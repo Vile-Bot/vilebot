@@ -1,83 +1,105 @@
 # Embeds
 
-Create embeds using [this](https://rival.rocks/embed)
+Create embeds using [this](https://embeds.rival.rocks)
 
 # Welcome & Boost Variables
 
-> {user} - name & tag
+> {user} - User's tag
 
-> {user.mention} - mention user
+> {user.mention} - User's mention
 
-> {user.name} - name
+> {user.name} - User's name
 
-> {user.avatar} - users avatar
+> {user.avatar} - User's avatar
 
-> {user.color} - most dominant color of user's avatar
+> {user.color} - Most dominant color of user's avatar
 
-> {user.joined_at} - users join timestamp
+> {user.joined_at} - User's join date (timestamp)
 
-> {user.created_at} - users created timestamp
+> {user.created_at} - User's created date (timestamp)
 
-> {user.discriminator} - users discriminator
+> {user.discriminator} - User's discriminator
 
-> {guild.name} - server name
+> {guild.name} - Server's name
 
-> {guild.count} - server member count
+> {guild.count} - Server's member count
 
-> {guild.count.format} - formatted server member count
+> {guild.count.format} - Formatted server member count
 
-> {guild.id} - server id
+> {guild.id} - Server's ID
 
-> {guild.boost_count} - server boost count
+> {guild.boost_count} - Server's boost count
 
-> {guild.boost_tier} - server boost level
+> {guild.boost_tier} - Server's boost level
 
-> {guild.booster_count} - server booster count
+> {guild.booster_count} - Server's booster count
 
-> {guild.icon} - server icon
+> {guild.icon} - Server's icon
 
 # Moderation Variables
 
-> {moderator} - moderator name & tag
+> {moderator} - Moderator's tag
 
-> {reason} - punishment reason
+> {reason} - Punishment reason
+
+# Embed Pagination Variables
+
+> {page.current} - Current page number
+
+> {page.total} - Total page count
+
+> {guild.name} - Server's name
+
+> {guild.count} - Server's member count
+
+> {guild.count.format} - Formatted server member count
+
+> {guild.id} - Server's ID
+
+> {guild.boost_count} - Server's boost count
+
+> {guild.boost_tier} - Server's boost level
+
+> {guild.booster_count} - Server's booster count
+
+> {guild.icon} - Server's icon
 
 # LastFM Variables
 
-> {track} - track name
+> {track} - Track's name
 
-> {artist} - artist name
+> {artist} - Artist's name
 
-> {user} - user tag
+> {user} - User's tag
 
-> {avatar} - user avatar
+> {avatar} - User's avatar
 
-> {track.url} - track url
+> {track.url} - Track's URL
 
-> {artist.url} - artist url
+> {artist.url} - Artist's URL
 
-> {scrobbles} - scrobble amount
+> {scrobbles} - Scrobble amount
 
-> {track.image} - track cover
+> {track.image} - Track's cover
 
-> {lastfm.user} - lastfm user
+> {lastfm.user} - User's Last.FM username
 
-> {artist.plays} - artist play count
+> {artist.plays} - Artist's play count
 
-> {track.plays} - track play count
+> {track.plays} - Track's play count
 
-> {track.lower} - track name lowercase
+> {track.lower} - Track's name (lowercase)
 
-> {artist.lower} - artist name lowercase
+> {artist.lower} - Artist's name (lowercase)
 
-> {track.hyper.lower} - track hyperlink lowercase
+> {track.hyper.lower} - Track's hyperlink (lowercase)
 
-> {artist.hyper.lower} - artist hyperlink lowercase
+> {artist.hyper.lower} - Artist's hyperlink (lowercase)
 
-> {track.hyper} - track hyperlink
+> {track.hyper} - Track's hyperlink
 
-> {artist.hyper} - artist hyperlink
+> {artist.hyper} - Artist's hyperlink
 
-> {track.color} - track image color
+> {track.color} - Track's image color
 
-> {artist.color} - artist image color
+> {artist.color} - Artist's image color
